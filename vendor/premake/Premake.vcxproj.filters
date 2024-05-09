@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{61705900-4DFC-870B-B6AA-880BA255880B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Atom">
+      <UniqueIdentifier>{81F57B47-EDD4-FAE2-F6EC-85B9624B6144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Quantum">
+      <UniqueIdentifier>{DBB838B1-C770-7AFE-3078-535A1C4F15EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Quantum\vendor">
+      <UniqueIdentifier>{D86A1ECC-4481-1C62-8DF8-A783F94DEDE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Quantum\vendor\GLFW">
+      <UniqueIdentifier>{17AD054D-03A7-2E9F-EC13-C5AFD8AC940B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Quantum\vendor\Glad">
+      <UniqueIdentifier>{BF38064D-AB32-2F9F-949F-C5AF8038950B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Quantum\vendor\ImGui">
+      <UniqueIdentifier>{02A2F1ED-6ED9-3985-77E3-9DA8E399607E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Quantum\vendor\yaml-cpp">
+      <UniqueIdentifier>{8A84A655-7694-5226-DF4D-B744CB7C41BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\SandBox">
+      <UniqueIdentifier>{1FF36A1D-0BAB-AC6A-74B2-85C66089475B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Atom\premake5.lua">
+      <Filter>..\Atom</Filter>
+    </None>
+    <None Include="..\..\Quantum\premake5.lua">
+      <Filter>..\Quantum</Filter>
+    </None>
+    <None Include="..\..\Quantum\vendor\GLFW\premake5.lua">
+      <Filter>..\Quantum\vendor\GLFW</Filter>
+    </None>
+    <None Include="..\..\Quantum\vendor\Glad\premake5.lua">
+      <Filter>..\Quantum\vendor\Glad</Filter>
+    </None>
+    <None Include="..\..\Quantum\vendor\ImGui\premake5.lua">
+      <Filter>..\Quantum\vendor\ImGui</Filter>
+    </None>
+    <None Include="..\..\Quantum\vendor\yaml-cpp\premake5.lua">
+      <Filter>..\Quantum\vendor\yaml-cpp</Filter>
+    </None>
+    <None Include="..\..\SandBox\premake5.lua">
+      <Filter>..\SandBox</Filter>
+    </None>
+    <None Include="..\..\premake5.lua">
+      <Filter>..</Filter>
+    </None>
+    <None Include="premake5.lua" />
+  </ItemGroup>
+</Project>
