@@ -1,0 +1,29 @@
+Scene: Untitled
+Entities:
+  - Entity: 123456789
+    TagComponent:
+      Tag: Pink Quad
+    TransformComponent:
+      Translation: [7.4505806e-09, -0.603600085, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 0, 0.671814919, 1]
+  - Entity: 123456789
+    TagComponent:
+      Tag: Orange Quad
+    TransformComponent:
+      Translation: [1.5589354, 1.32955229, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 0.347490311, 0, 1]
+  - Entity: 123456789
+    TagComponent:
+      Tag: Red Quad
+    TransformComponent:
+      Translation: [-1.59604454, 1.47424507, -0.626983285]
+      Rotation: [-8.32628416e-07, -1.36430418, 8.4666226e-07]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [0.722007751, 0, 0, 1]

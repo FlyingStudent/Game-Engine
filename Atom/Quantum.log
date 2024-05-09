@@ -1,0 +1,18 @@
+[13:04:07] [info] Quantum: Creatig Window Quantum Editor (800 , 600)
+[13:04:08] [info] Quantum: OpenGL Info: 
+[13:04:08] [info] Quantum:   Vendor: ATI Technologies Inc.
+[13:04:08] [info] Quantum:   Renderer: AMD Radeon (TM) R5 M330
+[13:04:08] [info] Quantum:   Version: 4.6.14831 Compatibility Profile/Debug Context 21.5.2 27.20.20903.8001
+[13:04:08] [trace] Quantum: OpenGLShader::Reflect - GL_VERTEX_SHADER assets/shaders/TextureShader.glsl
+[13:04:08] [trace] Quantum: 		1 uniform buffers,
+[13:04:08] [trace] Quantum: 		0 resources
+[13:04:08] [trace] Quantum: Uniform buffers:
+[13:04:08] [trace] Quantum: 	   _46_48
+[13:04:08] [trace] Quantum: 	   Size = 64
+[13:04:08] [trace] Quantum: 	   Binding = 0
+[13:04:08] [trace] Quantum: 	   Members = 1
+[13:04:08] [trace] Quantum: OpenGLShader::Reflect - GL_FRAGMENT_SHADER assets/shaders/TextureShader.glsl
+[13:04:08] [trace] Quantum: 		0 uniform buffers,
+[13:04:08] [trace] Quantum: 		1 resources
+[13:04:08] [trace] Quantum: Uniform buffers:
+[13:04:08] [warning] Quantum: Shader creation took 44.861904 ms
